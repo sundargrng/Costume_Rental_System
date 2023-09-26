@@ -1,0 +1,14 @@
+Customer Name:  Sundar
+Customer Address:  Pokhara
+Customer contact:  1234567890
+
+Returned:  08/09/2022 08:09:46
+
+Borrow Details: 
+____________________________________________
+Name of the costume :  Formal Suite (Black Premium)
+Name of the brand :   Megaplex
+Quantity:  10
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Total fine : $ 0

@@ -1,0 +1,17 @@
+Customer Name:  ala
+Customer Address:  ala
+Customer contact:  12345678
+
+Borrowed:  25/03/2023 14:03:51
+
+Borrow Details: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Name of the costume :  Full Metal Alchemist Set
+Name of the brand :   Roy
+Price for 5 days:   $37
+Quantity:  4
+
+TotalAmount : $ 148
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Grand Total : 148.0 dollars
